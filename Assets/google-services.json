@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8669724266",
+    "project_id": "old-wedding-game",
+    "storage_bucket": "old-wedding-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8669724266:android:29b53a23805626141ad413",
+        "android_client_info": {
+          "package_name": "com.bestonegames.mydream.makeup.wedding.fashionsalon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8669724266-ttaaqh1senk6fthbmqtuq2q22ii3jcel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWimHkawhcGhxiEqW3IaLlik3i6S0Jd4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8669724266-ttaaqh1senk6fthbmqtuq2q22ii3jcel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
